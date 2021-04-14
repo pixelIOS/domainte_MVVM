@@ -1,0 +1,6 @@
+framework module Pods_Dominate_Task_Ahmad {
+  umbrella header "Pods-Dominate Task Ahmad-umbrella.h"
+
+  export *
+  module * { export * }
+}
